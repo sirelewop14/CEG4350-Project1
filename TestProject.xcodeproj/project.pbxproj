@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		985993901CF6748600F00FD8 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 9859938F1CF6748600F00FD8 /* main.c */; };
+		987FBCF11D04990600CC90DE /* powell_project1.c in Sources */ = {isa = PBXBuildFile; fileRef = 987FBCF01D04990600CC90DE /* powell_project1.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		9859938C1CF6748600F00FD8 /* TestProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TestProject; sourceTree = BUILT_PRODUCTS_DIR; };
-		9859938F1CF6748600F00FD8 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		987FBCF01D04990600CC90DE /* powell_project1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = powell_project1.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		9859938E1CF6748600F00FD8 /* TestProject */ = {
 			isa = PBXGroup;
 			children = (
-				9859938F1CF6748600F00FD8 /* main.c */,
+				987FBCF01D04990600CC90DE /* powell_project1.c */,
 			);
 			path = TestProject;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				985993901CF6748600F00FD8 /* main.c in Sources */,
+				987FBCF11D04990600CC90DE /* powell_project1.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
